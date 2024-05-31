@@ -2,11 +2,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisPy-RuBy&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPy-RuBy&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisPy-RuBy&theme=radical)
 
 <!--
 **ChrisPy-RuBy/chrispy-ruby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
