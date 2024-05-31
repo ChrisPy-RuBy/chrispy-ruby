@@ -2,7 +2,7 @@
 
 ## 📊 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ChrisPy-RuBy&count_private=true&theme=tokyonight&showicons=true)]()
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisPy-RuBy&theme=radical)
 
