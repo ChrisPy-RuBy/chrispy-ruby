@@ -2,7 +2,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisPy-RuBy&show_icons=true&theme=radical)
+![GitHub Stats]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPy-RuBy&layout=compact&theme=radical)
 
